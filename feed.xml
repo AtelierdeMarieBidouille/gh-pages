@@ -3,7 +3,7 @@
     <title>L&#x27;atelier de Marie Bidouille</title>
     <link href="https://atelierdemariebidouille.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://atelierdemariebidouille.github.io/gh-pages" />
-    <updated>2023-10-15T13:58:09+02:00</updated>
+    <updated>2023-10-15T14:40:37+02:00</updated>
     <author>
         <name>Marie Bidouille</name>
     </author>
@@ -275,28 +275,29 @@
         <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/IMG_20230819_164733.jpg" medium="image" />
             <category term="Archives"/>
 
-        <updated>2023-10-14T17:55:37+02:00</updated>
+        <updated>2023-10-15T14:40:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/IMG_20230819_164733.jpg" alt="" />
-                    Mon premier atelier d'essai a eu lieu le 19 août dans la cour des Bidouilles.
+                    Mon premier atelier d'essai a eu lieu le 19 août dans la cour des Bidouilles. Ce fut un réel plaisir de l'animer et&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/IMG_20230819_164733.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+                <p>Mon premier atelier d'essai a eu lieu le 19  août dans la cour des Bidouilles. Ce fut un réel plaisir de l'animer et cela m'a définitivement motivé à me lancer ! </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154216.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154216-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154234.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154234-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154306.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154306-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154314.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154314-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_160002.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_160002-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_160006.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_160006-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164733.jpg" data-size="3750x2086"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164733-thumbnail.jpg" alt="" width="720" height="401"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164739.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164739-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_171553.jpg" data-size="3595x2921"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_171553-thumbnail.jpg" alt="" width="720" height="585"></a></figure>
 </div></div>
-<p>Mon premier atelier d'essai a eu lieu le 19  août dans la cour des Bidouilles.</p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
