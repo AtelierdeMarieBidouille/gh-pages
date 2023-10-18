@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>L&#x27;atelier de Marie Bidouille</title>
-    <link href="https://atelierdemariebidouille.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://atelierdemariebidouille.github.io/gh-pages" />
-    <updated>2023-10-16T20:26:32+02:00</updated>
+    <link href="https://www.atelierdemariebidouille.com/feed.xml" rel="self" />
+    <link href="https://www.atelierdemariebidouille.com" />
+    <updated>2023-10-16T20:43:39+02:00</updated>
     <author>
         <name>Marie Bidouille</name>
     </author>
-    <id>https://atelierdemariebidouille.github.io/gh-pages</id>
+    <id>https://www.atelierdemariebidouille.com</id>
 
     <entry>
         <title>Tout se dessine</title>
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/tout-se-dessine/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/tout-se-dessine/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/IMG_20210313_181547_465.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/tout-se-dessine/"/>
+        <id>https://www.atelierdemariebidouille.com/tout-se-dessine/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/11/IMG_20210313_181547_465.jpg" medium="image" />
             <category term="Mes bidouilles"/>
 
         <updated>2023-10-15T13:55:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/IMG_20210313_181547_465.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/11/IMG_20210313_181547_465.jpg" alt="" />
                     Mon credo depuis plusieurs années ! Même un spray de produit ménager, le déballage des courses, une paire de chaussures, quelques radis ramenés&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/IMG_20210313_181547_465.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/11/IMG_20210313_181547_465.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Mon credo depuis plusieurs années ! Même un spray de produit ménager, le déballage des courses, une paire de chaussures, quelques radis ramenés du jardin ou un bocal de cornichons peuvent faire l'objet d'une page dans mes carnets ! </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20200604_204305_550.jpg" data-size="3863x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20200604_204305_550-thumbnail.jpg" alt="" width="720" height="559"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20200807_203132_205.jpg" data-size="3953x2500"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20200807_203132_205-thumbnail.jpg" alt="" width="720" height="455"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210109_130328_213.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210109_130328_213-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20200507_144031_596.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20200507_144031_596-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210202_201015_977.jpg" data-size="2831x3539"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210202_201015_977-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210219_222721_035.jpg" data-size="2617x3271"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210219_222721_035-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210313_181547_465.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210313_181547_465-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210518_210513_459.jpg" data-size="3000x3750"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210518_210513_459-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210622_173051_171.jpg" data-size="2830x3538"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210622_173051_171-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210912_114241_064.webp" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20210912_114241_064-thumbnail.webp" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20220129_215832.jpg" data-size="3560x2741"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20220129_215832-thumbnail.jpg" alt="" width="720" height="554"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20221003_203326.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/11/gallery/IMG_20221003_203326-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20200604_204305_550.jpg" data-size="3863x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20200604_204305_550-thumbnail.jpg" alt="" width="720" height="559"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20200807_203132_205.jpg" data-size="3953x2500"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20200807_203132_205-thumbnail.jpg" alt="" width="720" height="455"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210109_130328_213.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210109_130328_213-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20200507_144031_596.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20200507_144031_596-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210202_201015_977.jpg" data-size="2831x3539"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210202_201015_977-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210219_222721_035.jpg" data-size="2617x3271"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210219_222721_035-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210313_181547_465.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210313_181547_465-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210518_210513_459.jpg" data-size="3000x3750"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210518_210513_459-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210622_173051_171.jpg" data-size="2830x3538"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210622_173051_171-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210912_114241_064.webp" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20210912_114241_064-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20220129_215832.jpg" data-size="3560x2741"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20220129_215832-thumbnail.jpg" alt="" width="720" height="554"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20221003_203326.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/11/gallery/IMG_20221003_203326-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -52,34 +52,34 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/stage-de-poterie/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/stage-de-poterie/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/IMG_20211116_093810.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/stage-de-poterie/"/>
+        <id>https://www.atelierdemariebidouille.com/stage-de-poterie/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/10/IMG_20211116_093810.jpg" medium="image" />
             <category term="Mes bidouilles"/>
 
         <updated>2023-10-15T13:50:27+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/IMG_20211116_093810.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/10/IMG_20211116_093810.jpg" alt="" />
                     Petit reportage au format accordéon lors de mon premier stage de poterie avec Céline de l'atelier Elément Terre.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/IMG_20211116_093810.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/10/IMG_20211116_093810.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Petit reportage au format accordéon lors de mon premier stage de poterie avec Céline de l'atelier Elément Terre. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093800.jpg" data-size="4000x2475"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093800-thumbnail.jpg" alt="" width="720" height="445"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093742.jpg" data-size="4000x2686"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093742-thumbnail.jpg" alt="" width="720" height="483"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093735.jpg" data-size="4000x2161"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093735-thumbnail.jpg" alt="" width="720" height="389"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093747.jpg" data-size="4000x2440"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093747-thumbnail.jpg" alt="" width="720" height="439"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093822.jpg" data-size="4000x1877"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093822-thumbnail.jpg" alt="" width="720" height="338"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093810.jpg" data-size="4000x2820"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20211116_093810-thumbnail.jpg" alt="" width="720" height="508"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093800.jpg" data-size="4000x2475"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093800-thumbnail.jpg" alt="" width="720" height="445"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093742.jpg" data-size="4000x2686"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093742-thumbnail.jpg" alt="" width="720" height="483"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093735.jpg" data-size="4000x2161"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093735-thumbnail.jpg" alt="" width="720" height="389"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093747.jpg" data-size="4000x2440"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093747-thumbnail.jpg" alt="" width="720" height="439"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093822.jpg" data-size="4000x1877"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093822-thumbnail.jpg" alt="" width="720" height="338"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093810.jpg" data-size="4000x2820"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20211116_093810-thumbnail.jpg" alt="" width="720" height="508"></a></figure>
 </div></div>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20200221_171823.jpg" data-size="708x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20200221_171823-thumbnail.jpg" alt="" width="708" height="943"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20220202_200101.jpg" data-size="569x323"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20220202_200101-thumbnail.jpg" alt="" width="569" height="323"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20220415_095259.jpg" data-size="457x343"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/10/gallery/IMG_20220415_095259-thumbnail.jpg" alt="" width="457" height="343"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20200221_171823.jpg" data-size="708x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20200221_171823-thumbnail.jpg" alt="" width="708" height="943"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20220202_200101.jpg" data-size="569x323"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20220202_200101-thumbnail.jpg" alt="" width="569" height="323"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20220415_095259.jpg" data-size="457x343"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/10/gallery/IMG_20220415_095259-thumbnail.jpg" alt="" width="457" height="343"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -89,30 +89,30 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/lille-2022/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/lille-2022/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/IMG_20220606_174149~2.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/lille-2022/"/>
+        <id>https://www.atelierdemariebidouille.com/lille-2022/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/9/IMG_20220606_174149~2.jpg" medium="image" />
             <category term="Mes bidouilles"/>
 
         <updated>2023-10-15T13:50:48+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/IMG_20220606_174149~2.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/9/IMG_20220606_174149~2.jpg" alt="" />
                     Cette rencontre nationale des Urban Sketchers a rassemblé plusieurs centaines de dessinateurs dans les rues de Lille. Beaucoup de belles rencontres avec des&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/IMG_20220606_174149~2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/9/IMG_20220606_174149~2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Cette rencontre nationale des Urban Sketchers a rassemblé plusieurs centaines de dessinateurs dans les rues de Lille. Beaucoup de belles rencontres avec des gens talentueux et passionnés ... </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173026.jpg" data-size="4000x2699"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173026-thumbnail.jpg" alt="" width="720" height="486"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173023.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173023-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173015.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173015-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173012.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173012-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173003.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_173003-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_172954.jpg" data-size="4000x2772"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220608_172954-thumbnail.jpg" alt="" width="720" height="499"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220606_174149~2.jpg" data-size="3787x2003"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/9/gallery/IMG_20220606_174149~2-thumbnail.jpg" alt="" width="720" height="381"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173026.jpg" data-size="4000x2699"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173026-thumbnail.jpg" alt="" width="720" height="486"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173023.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173023-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173015.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173015-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173012.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173012-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173003.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_173003-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_172954.jpg" data-size="4000x2772"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220608_172954-thumbnail.jpg" alt="" width="720" height="499"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220606_174149~2.jpg" data-size="3787x2003"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/9/gallery/IMG_20220606_174149~2-thumbnail.jpg" alt="" width="720" height="381"></a></figure>
 </div></div>
 <p>J'aime beaucoup le format accordéon quand je pars quelques jours. </p>
             ]]>
@@ -123,49 +123,51 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/vegetaux/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/vegetaux/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/vegetaux/"/>
+        <id>https://www.atelierdemariebidouille.com/vegetaux/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/8/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" medium="image" />
             <category term="Mes bidouilles"/>
 
-        <updated>2023-10-15T13:51:14+02:00</updated>
+        <updated>2023-10-16T20:40:26+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/8/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" alt="" />
                     Ils restent mon sujet de prédilection ... J'adore ramasser quelques trésors au sol, cueillir quelques fleurs dans mon jardin ou dans les prés&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/8/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Ils restent mon sujet de prédilection ... J'adore ramasser quelques trésors au sol, cueillir quelques fleurs dans mon jardin ou dans les prés environnants et les croquer dans mon carnet... </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20200716_123601.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20200716_123601-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20200723_173704_518.jpg" data-size="3856x2798"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20200723_173704_518-thumbnail.jpg" alt="" width="720" height="522"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20201006_211725_115.jpg" data-size="2888x3146"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20201006_211725_115-thumbnail.jpg" alt="" width="720" height="784"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20201021_190043_991.jpg" data-size="2820x3292"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20201021_190043_991-thumbnail.jpg" alt="" width="720" height="841"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20201225_092143_895.jpg" data-size="2795x3494"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20201225_092143_895-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210327_213917_438.jpg" data-size="3176x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210327_213917_438-thumbnail.jpg" alt="" width="720" height="680"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210428_164427_718.jpg" data-size="1080x1350"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210428_164427_718-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210511_210913_100.jpg" data-size="2545x3182"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210511_210913_100-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210718_171208_384.jpg" data-size="3941x2799"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210718_171208_384-thumbnail.jpg" alt="" width="720" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210725_164122_631.webp" data-size="3000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210725_164122_631-thumbnail.webp" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210817_183153_825.webp" data-size="3808x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210817_183153_825-thumbnail.webp" alt="" width="720" height="567"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210821_184443_378.webp" data-size="3710x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210821_184443_378-thumbnail.webp" alt="" width="720" height="582"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210913_194411_391.webp" data-size="3685x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210913_194411_391-thumbnail.webp" alt="" width="720" height="586"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210916_204744_150.webp" data-size="3448x2913"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20210916_204744_150-thumbnail.webp" alt="" width="720" height="608"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220430_183445~3.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220430_183445~3-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220505_063349.jpg" data-size="3000x4000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220505_063349-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220522_202154~2.jpg" data-size="3818x2925"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220522_202154~2-thumbnail.jpg" alt="" width="720" height="551"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220527_085156~2.jpg" data-size="2560x3800"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20220527_085156~2-thumbnail.jpg" alt="" width="720" height="1069"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20221120_164703.jpg" data-size="3892x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20221120_164703-thumbnail.jpg" alt="" width="720" height="568"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20230225_223430_450.webp" data-size="3072x2313"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20230225_223430_450-thumbnail.webp" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20230526_232912.jpg" data-size="3070x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20230526_232912-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20230529_201929.jpg" data-size="4080x2276"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/IMG_20230529_201929-thumbnail.jpg" alt="" width="720" height="402"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_9fe5884e-1823-4e1c-ba07-e42edac41a99_IMG_20211017_182752.jpg" data-size="3000x4000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_9fe5884e-1823-4e1c-ba07-e42edac41a99_IMG_20211017_182752-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539.jpg" data-size="4080x2414"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539-thumbnail.jpg" alt="" width="720" height="426"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958.jpg" data-size="4080x2726"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/8/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20200716_123601.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20200716_123601-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20200723_173704_518.jpg" data-size="3856x2798"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20200723_173704_518-thumbnail.jpg" alt="" width="720" height="522"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201006_211725_115.jpg" data-size="2888x3146"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201006_211725_115-thumbnail.jpg" alt="" width="720" height="784"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201021_190043_991.jpg" data-size="2820x3292"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201021_190043_991-thumbnail.jpg" alt="" width="720" height="841"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201225_092143_895.jpg" data-size="2795x3494"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201225_092143_895-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210327_213917_438.jpg" data-size="3176x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210327_213917_438-thumbnail.jpg" alt="" width="720" height="680"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210428_164427_718.jpg" data-size="1080x1350"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210428_164427_718-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210511_210913_100.jpg" data-size="2545x3182"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210511_210913_100-thumbnail.jpg" alt="" width="720" height="900"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210718_171208_384.jpg" data-size="3941x2799"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210718_171208_384-thumbnail.jpg" alt="" width="720" height="511"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210725_164122_631.webp" data-size="3000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210725_164122_631-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210817_183153_825.webp" data-size="3808x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210817_183153_825-thumbnail.webp" alt="" width="720" height="567"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210821_184443_378.webp" data-size="3710x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210821_184443_378-thumbnail.webp" alt="" width="720" height="582"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210913_194411_391.webp" data-size="3685x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210913_194411_391-thumbnail.webp" alt="" width="720" height="586"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210916_204744_150.webp" data-size="3448x2913"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20210916_204744_150-thumbnail.webp" alt="" width="720" height="608"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220430_183445~3.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220430_183445~3-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220505_063349.jpg" data-size="3000x4000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220505_063349-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220522_202154~2.jpg" data-size="3818x2925"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220522_202154~2-thumbnail.jpg" alt="" width="720" height="551"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220527_085156~2.jpg" data-size="2560x3800"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20220527_085156~2-thumbnail.jpg" alt="" width="720" height="1069"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20221120_164703.jpg" data-size="3892x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20221120_164703-thumbnail.jpg" alt="" width="720" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20230225_223430_450.webp" data-size="3072x2313"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20230225_223430_450-thumbnail.webp" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20230526_232912.jpg" data-size="3070x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20230526_232912-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20230529_201929.jpg" data-size="4080x2276"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20230529_201929-thumbnail.jpg" alt="" width="720" height="402"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_9fe5884e-1823-4e1c-ba07-e42edac41a99_IMG_20211017_182752.jpg" data-size="3000x4000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_9fe5884e-1823-4e1c-ba07-e42edac41a99_IMG_20211017_182752-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_95d01967-e7c6-45fe-b3cc-9146acac5abd_IMG_20230614_112855-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539.jpg" data-size="4080x2414"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539-thumbnail.jpg" alt="" width="720" height="426"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958.jpg" data-size="4080x2726"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201007_143109_960-2.jpg" data-size="943x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201007_143109_960-2-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201030_092938-2.jpg" data-size="891x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/8/gallery/IMG_20201030_092938-2-thumbnail.jpg" alt="" width="720" height="762"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -175,50 +177,50 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/carnets-2023/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/carnets-2023/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/IMG_20220826_084713.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/carnets-2023/"/>
+        <id>https://www.atelierdemariebidouille.com/carnets-2023/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/7/IMG_20220826_084713.jpg" medium="image" />
             <category term="Mes bidouilles"/>
 
         <updated>2023-10-14T22:07:32+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/IMG_20220826_084713.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/7/IMG_20220826_084713.jpg" alt="" />
                     Voici quelques dessins de mes carnets 2023 où se mêlent mon jardin, Athènes, les moments entre amis ou en famille, des trouvailles du&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/IMG_20220826_084713.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/7/IMG_20220826_084713.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Voici quelques dessins de mes carnets 2023 où se mêlent mon jardin, Athènes, les moments entre amis ou en famille, des trouvailles du grenier, une virée à Paris, le Périgord, ... </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20220826_084713.jpg" data-size="1299x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20220826_084713-thumbnail.jpg" alt="" width="720" height="523"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230124_215824_822.jpg" data-size="1080x813"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230124_215824_822-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230202_185743.jpg" data-size="414x312"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230202_185743-thumbnail.jpg" alt="" width="414" height="312"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230218_172933_244.jpg" data-size="1251x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230218_172933_244-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230315_175400_849.jpg" data-size="472x356"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230315_175400_849-thumbnail.jpg" alt="" width="472" height="356"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230409_180007.jpg" data-size="472x356"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230409_180007-thumbnail.jpg" alt="" width="472" height="356"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230519_225829_533.jpg" data-size="1643x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230519_225829_533-thumbnail.jpg" alt="" width="720" height="413"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230521_193659.jpg" data-size="511x343"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230521_193659-thumbnail.jpg" alt="" width="511" height="343"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230604_161612.jpg" data-size="342x218"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230604_161612-thumbnail.jpg" alt="" width="342" height="218"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230614_121323_133.jpg" data-size="1251x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230614_121323_133-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230730_154931.jpg" data-size="305x230"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230730_154931-thumbnail.jpg" alt="" width="305" height="230"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230731_205910.jpg" data-size="357x216"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230731_205910-thumbnail.jpg" alt="" width="357" height="216"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230906_211519.jpg" data-size="1751x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/IMG_20230906_211519-thumbnail.jpg" alt="" width="720" height="388"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_1c18bfa2-468e-416d-9c97-073db4ee50c7_IMG_20230726_090532.jpg" data-size="279x220"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_1c18bfa2-468e-416d-9c97-073db4ee50c7_IMG_20230726_090532-thumbnail.jpg" alt="" width="279" height="220"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_6f48fdbd-e799-49d3-812f-f97545fca249_IMG_20230917_185846.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_6f48fdbd-e799-49d3-812f-f97545fca249_IMG_20230917_185846-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_9c4f4f46-f000-4611-8036-3528dbd80841_IMG_20230722_091655.jpg" data-size="292x220"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_9c4f4f46-f000-4611-8036-3528dbd80841_IMG_20230722_091655-thumbnail.jpg" alt="" width="292" height="220"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_40df3e16-cbd6-4bdc-a533-27635aadcc3d_IMG_20230719_071356.jpg" data-size="292x220"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_40df3e16-cbd6-4bdc-a533-27635aadcc3d_IMG_20230719_071356-thumbnail.jpg" alt="" width="292" height="220"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_46bab0b7-40b0-4b47-a47b-7226c02156a0_IMG_20230726_120823.jpg" data-size="1340x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_46bab0b7-40b0-4b47-a47b-7226c02156a0_IMG_20230726_120823-thumbnail.jpg" alt="" width="720" height="507"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_cc4723b8-032a-437f-8af6-0f4c04ae52b2_IMG_20230418_160044.jpg" data-size="1564x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_cc4723b8-032a-437f-8af6-0f4c04ae52b2_IMG_20230418_160044-thumbnail.jpg" alt="" width="720" height="434"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_75f32004-da2b-492f-ba89-4f0829a521c0_IMG_20230421_131206.jpg" data-size="1251x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_75f32004-da2b-492f-ba89-4f0829a521c0_IMG_20230421_131206-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539.jpg" data-size="372x220"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539-thumbnail.jpg" alt="" width="372" height="220"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_630e3a05-3171-422f-b42f-3e8df333101d_IMG_20230814_211706~2.jpg" data-size="267x201"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_630e3a05-3171-422f-b42f-3e8df333101d_IMG_20230814_211706~2-thumbnail.jpg" alt="" width="267" height="201"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_1672e02e-989b-4717-bd5b-91ab374fe8d9_IMG_20230720_184315.jpg" data-size="1313x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_1672e02e-989b-4717-bd5b-91ab374fe8d9_IMG_20230720_184315-thumbnail.jpg" alt="" width="720" height="517"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_4321a74a-8e71-4dcd-aa91-d75f6ab8a9b7_IMG_20230201_214822.jpg" data-size="1275x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_4321a74a-8e71-4dcd-aa91-d75f6ab8a9b7_IMG_20230201_214822-thumbnail.jpg" alt="" width="720" height="533"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_aed896ce-b9a8-4148-a1c0-c4dd5d23bc9e_IMG_20230716_150444.jpg" data-size="291x219"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_aed896ce-b9a8-4148-a1c0-c4dd5d23bc9e_IMG_20230716_150444-thumbnail.jpg" alt="" width="291" height="219"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_afd6a848-33d2-49ab-b377-6cd40dcc4a40_IMG_20230710_083641.jpg" data-size="411x253"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_afd6a848-33d2-49ab-b377-6cd40dcc4a40_IMG_20230710_083641-thumbnail.jpg" alt="" width="411" height="253"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958.jpg" data-size="1411x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/7/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20220826_084713.jpg" data-size="1299x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20220826_084713-thumbnail.jpg" alt="" width="720" height="523"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230124_215824_822.jpg" data-size="1080x813"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230124_215824_822-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230202_185743.jpg" data-size="414x312"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230202_185743-thumbnail.jpg" alt="" width="414" height="312"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230218_172933_244.jpg" data-size="1251x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230218_172933_244-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230315_175400_849.jpg" data-size="472x356"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230315_175400_849-thumbnail.jpg" alt="" width="472" height="356"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230409_180007.jpg" data-size="472x356"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230409_180007-thumbnail.jpg" alt="" width="472" height="356"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230519_225829_533.jpg" data-size="1643x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230519_225829_533-thumbnail.jpg" alt="" width="720" height="413"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230521_193659.jpg" data-size="511x343"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230521_193659-thumbnail.jpg" alt="" width="511" height="343"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230604_161612.jpg" data-size="342x218"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230604_161612-thumbnail.jpg" alt="" width="342" height="218"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230614_121323_133.jpg" data-size="1251x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230614_121323_133-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230730_154931.jpg" data-size="305x230"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230730_154931-thumbnail.jpg" alt="" width="305" height="230"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230731_205910.jpg" data-size="357x216"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230731_205910-thumbnail.jpg" alt="" width="357" height="216"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230906_211519.jpg" data-size="1751x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/IMG_20230906_211519-thumbnail.jpg" alt="" width="720" height="388"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_1c18bfa2-468e-416d-9c97-073db4ee50c7_IMG_20230726_090532.jpg" data-size="279x220"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_1c18bfa2-468e-416d-9c97-073db4ee50c7_IMG_20230726_090532-thumbnail.jpg" alt="" width="279" height="220"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_6f48fdbd-e799-49d3-812f-f97545fca249_IMG_20230917_185846.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_6f48fdbd-e799-49d3-812f-f97545fca249_IMG_20230917_185846-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_9c4f4f46-f000-4611-8036-3528dbd80841_IMG_20230722_091655.jpg" data-size="292x220"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_9c4f4f46-f000-4611-8036-3528dbd80841_IMG_20230722_091655-thumbnail.jpg" alt="" width="292" height="220"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_40df3e16-cbd6-4bdc-a533-27635aadcc3d_IMG_20230719_071356.jpg" data-size="292x220"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_40df3e16-cbd6-4bdc-a533-27635aadcc3d_IMG_20230719_071356-thumbnail.jpg" alt="" width="292" height="220"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_46bab0b7-40b0-4b47-a47b-7226c02156a0_IMG_20230726_120823.jpg" data-size="1340x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_46bab0b7-40b0-4b47-a47b-7226c02156a0_IMG_20230726_120823-thumbnail.jpg" alt="" width="720" height="507"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_cc4723b8-032a-437f-8af6-0f4c04ae52b2_IMG_20230418_160044.jpg" data-size="1564x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_cc4723b8-032a-437f-8af6-0f4c04ae52b2_IMG_20230418_160044-thumbnail.jpg" alt="" width="720" height="434"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_75f32004-da2b-492f-ba89-4f0829a521c0_IMG_20230421_131206.jpg" data-size="1251x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_75f32004-da2b-492f-ba89-4f0829a521c0_IMG_20230421_131206-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539.jpg" data-size="372x220"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_273ca507-f5cd-4603-a9a8-80c7bf659a64_IMG_20230616_062539-thumbnail.jpg" alt="" width="372" height="220"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_630e3a05-3171-422f-b42f-3e8df333101d_IMG_20230814_211706~2.jpg" data-size="267x201"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_630e3a05-3171-422f-b42f-3e8df333101d_IMG_20230814_211706~2-thumbnail.jpg" alt="" width="267" height="201"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_1672e02e-989b-4717-bd5b-91ab374fe8d9_IMG_20230720_184315.jpg" data-size="1313x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_1672e02e-989b-4717-bd5b-91ab374fe8d9_IMG_20230720_184315-thumbnail.jpg" alt="" width="720" height="517"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_4321a74a-8e71-4dcd-aa91-d75f6ab8a9b7_IMG_20230201_214822.jpg" data-size="1275x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_4321a74a-8e71-4dcd-aa91-d75f6ab8a9b7_IMG_20230201_214822-thumbnail.jpg" alt="" width="720" height="533"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_aed896ce-b9a8-4148-a1c0-c4dd5d23bc9e_IMG_20230716_150444.jpg" data-size="291x219"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_aed896ce-b9a8-4148-a1c0-c4dd5d23bc9e_IMG_20230716_150444-thumbnail.jpg" alt="" width="291" height="219"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_afd6a848-33d2-49ab-b377-6cd40dcc4a40_IMG_20230710_083641.jpg" data-size="411x253"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_afd6a848-33d2-49ab-b377-6cd40dcc4a40_IMG_20230710_083641-thumbnail.jpg" alt="" width="411" height="253"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958.jpg" data-size="1411x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/7/gallery/original_c01949bc-2c83-4e87-8f34-9fb7e1bc6c10_IMG_20230628_164958-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -228,10 +230,10 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/bienvenue/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/bienvenue/</id>
+        <link href="https://www.atelierdemariebidouille.com/bienvenue/"/>
+        <id>https://www.atelierdemariebidouille.com/bienvenue/</id>
 
-        <updated>2023-10-16T20:26:32+02:00</updated>
+        <updated>2023-10-16T20:37:07+02:00</updated>
             <summary>
                 <![CDATA[
                     Croqueuse passionnée des petits bonheurs du quotidien, je remplis mes carnets de croquis aquarellés depuis plusieurs années. Je vous propose de découvrir mes&hellip;
@@ -239,14 +241,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/IMG_20230518_151257.jpg" alt="" width="252" height="335" sizes="(max-width: 48em) 100vw, 768px" srcset="https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230518_151257-xs.jpg 300w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230518_151257-sm.jpg 480w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230518_151257-md.jpg 768w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230518_151257-lg.jpg 1024w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230518_151257-xl.jpg 1360w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230518_151257-2xl.jpg 1600w"></figure>Croqueuse passionnée des petits bonheurs du quotidien, je remplis mes carnets de croquis aquarellés depuis plusieurs années. Je vous propose de découvrir mes bidouilles et, si le coeur vous en dit, de participer à un de mes ateliers. </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; text-align: center; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/IMG_20230603_121304.jpg" alt="" width="448" height="338" sizes="(max-width: 48em) 100vw, 768px" srcset="https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230603_121304-xs.jpg 300w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230603_121304-sm.jpg 480w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230603_121304-md.jpg 768w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230603_121304-lg.jpg 1024w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230603_121304-xl.jpg 1360w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/6/responsive/IMG_20230603_121304-2xl.jpg 1600w"></figure>
-<p> </p>
-<p>N'hésitez pas à me contacter à <strong>atelierdemariebidouille@gmail.com</strong>, j'</p>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">étudierai avec attention toute demande personnalisée. </span></p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://www.atelierdemariebidouille.com/media/posts/6/IMG_20230518_151257.jpg" alt="" width="298" height="396" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.atelierdemariebidouille.com/media/posts/6/responsive/IMG_20230518_151257-xs.jpg 300w ,https://www.atelierdemariebidouille.com/media/posts/6/responsive/IMG_20230518_151257-sm.jpg 480w ,https://www.atelierdemariebidouille.com/media/posts/6/responsive/IMG_20230518_151257-md.jpg 768w ,https://www.atelierdemariebidouille.com/media/posts/6/responsive/IMG_20230518_151257-lg.jpg 1024w ,https://www.atelierdemariebidouille.com/media/posts/6/responsive/IMG_20230518_151257-xl.jpg 1360w ,https://www.atelierdemariebidouille.com/media/posts/6/responsive/IMG_20230518_151257-2xl.jpg 1600w"></figure>Croqueuse passionnée des petits bonheurs du quotidien, je remplis mes carnets de croquis aquarellés depuis plusieurs années. Je vous propose de découvrir mes bidouilles et, si le coeur vous en dit, de participer à un de mes ateliers. </p>
+<p>N'hésitez pas à me contacter à <strong><a href="mailto:atelierdemariebidouille@gmail.com">atelierdemariebidouille@gmail.com</a>, </strong> j'<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">étudierai avec attention toute demande personnalisée. </span></p>
             ]]>
         </content>
     </entry>
@@ -255,8 +251,8 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/inscriptions/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/inscriptions/</id>
+        <link href="https://www.atelierdemariebidouille.com/inscriptions/"/>
+        <id>https://www.atelierdemariebidouille.com/inscriptions/</id>
             <category term="Inscriptions"/>
 
         <updated>2023-10-15T13:58:09+02:00</updated>
@@ -276,31 +272,31 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/atelier-du-19-aout/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/atelier-du-19-aout/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/IMG_20230819_164733.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/atelier-du-19-aout/"/>
+        <id>https://www.atelierdemariebidouille.com/atelier-du-19-aout/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/4/IMG_20230819_164733.jpg" medium="image" />
             <category term="Archives"/>
 
-        <updated>2023-10-15T14:40:37+02:00</updated>
+        <updated>2023-10-16T20:43:39+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/IMG_20230819_164733.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/4/IMG_20230819_164733.jpg" alt="" />
                     Mon premier atelier d'essai a eu lieu le 19 août dans la cour des Bidouilles. Ce fut un réel plaisir de l'animer et&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/IMG_20230819_164733.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/4/IMG_20230819_164733.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Mon premier atelier d'essai a eu lieu le 19  août dans la cour des Bidouilles. Ce fut un réel plaisir de l'animer et cela m'a définitivement motivé à me lancer ! </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154216.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154216-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154234.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154234-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154306.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154306-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154314.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_154314-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_160002.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_160002-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164733.jpg" data-size="3750x2086"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164733-thumbnail.jpg" alt="" width="720" height="401"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164739.jpg" data-size="4080x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_164739-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_171553.jpg" data-size="3595x2921"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/4/gallery/IMG_20230819_171553-thumbnail.jpg" alt="" width="720" height="585"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154216.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154216-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154234.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154234-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154306.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154306-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154314.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_154314-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_160002.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_160002-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_164733.jpg" data-size="3750x2086"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_164733-thumbnail.jpg" alt="" width="720" height="401"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_164739.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_164739-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_171553.jpg" data-size="3595x2921"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/4/gallery/IMG_20230819_171553-thumbnail.jpg" alt="" width="720" height="585"></a></figure>
 </div></div>
 <p> </p>
 <p> </p>
@@ -312,21 +308,21 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/atelier-de-decembre/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/atelier-de-decembre/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/357826208_948068226401794_709603944325361323_n.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/atelier-de-decembre/"/>
+        <id>https://www.atelierdemariebidouille.com/atelier-de-decembre/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/3/357826208_948068226401794_709603944325361323_n.jpg" medium="image" />
             <category term="Les prochains ateliers"/>
 
-        <updated>2023-10-15T13:51:53+02:00</updated>
+        <updated>2023-10-16T20:41:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/357826208_948068226401794_709603944325361323_n.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/3/357826208_948068226401794_709603944325361323_n.jpg" alt="" />
                     "Mémoires d'un instant" Le samedi 28 octobre c'est Muriel, à Urmatt, qui nous accueillera de 14h à 17h. Réunis autour d'une tasse de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/357826208_948068226401794_709603944325361323_n.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/3/357826208_948068226401794_709603944325361323_n.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">"Mémoires d'un instant"</p>
 <p>Le samedi 28 octobre c'est Muriel, à Urmatt, qui nous accueillera de 14h à 17h.</p>
 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Réunis autour d'une tasse de thé et de quelques douceurs (les cookies de ma belle-maman), nous croquerons à l'encre et à l'aquarelle ce moment partagé. </span></p>
@@ -336,7 +332,7 @@
 <div dir="auto">Le tarif est de 35 euros par personne, tout le matériel est fourni.</div>
 <div dir="auto">10 participants maximum, débutants bienvenus.</div>
 <div dir="auto"> </div>
-<div dir="auto"><figure class="post__image post__image--center"><img loading="lazy"  src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324.jpg" alt="" width="1456" height="950" sizes="(max-width: 48em) 100vw, 768px" srcset="https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-xs.jpg 300w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-sm.jpg 480w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-md.jpg 768w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-lg.jpg 1024w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-xl.jpg 1360w ,https://atelierdemariebidouille.github.io/gh-pages/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-2xl.jpg 1600w"></figure></div>
+<div dir="auto"><figure class="post__image post__image--center"><img loading="lazy"  src="https://www.atelierdemariebidouille.com/media/posts/3/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324.jpg" alt="" width="1456" height="950" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.atelierdemariebidouille.com/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-xs.jpg 300w ,https://www.atelierdemariebidouille.com/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-sm.jpg 480w ,https://www.atelierdemariebidouille.com/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-md.jpg 768w ,https://www.atelierdemariebidouille.com/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-lg.jpg 1024w ,https://www.atelierdemariebidouille.com/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-xl.jpg 1360w ,https://www.atelierdemariebidouille.com/media/posts/3/responsive/original_cf1c9a68-996c-42a3-b1c8-e989222ced65_IMG_20230704_172324-2xl.jpg 1600w"></figure></div>
 </div>
             ]]>
         </content>
@@ -346,33 +342,33 @@
         <author>
             <name>Marie Bidouille</name>
         </author>
-        <link href="https://atelierdemariebidouille.github.io/gh-pages/au-jardin-du-brocanteur/"/>
-        <id>https://atelierdemariebidouille.github.io/gh-pages/au-jardin-du-brocanteur/</id>
-        <media:content url="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/IMG_20230702_123953_871.jpg" medium="image" />
+        <link href="https://www.atelierdemariebidouille.com/au-jardin-du-brocanteur/"/>
+        <id>https://www.atelierdemariebidouille.com/au-jardin-du-brocanteur/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/2/IMG_20230702_123953_871.jpg" medium="image" />
             <category term="Mes bidouilles"/>
 
         <updated>2023-10-14T21:39:58+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/IMG_20230702_123953_871.jpg" alt="" />
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/2/IMG_20230702_123953_871.jpg" alt="" />
                     J'ai réalisé pour Christian Fontaine une série de cartes postales à partir de croquis réalisés dans son jardin. Elles sont en vente au&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/IMG_20230702_123953_871.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/2/IMG_20230702_123953_871.jpg" class="type:primaryImage" alt="" /></p>
                 <p>J'ai réalisé pour Christian Fontaine une série de cartes postales à partir de croquis réalisés dans son jardin. Elles sont en vente au Jardin d'un Brocanteur à Barr.  Une collaboration qui a débouché sur une belle rencontre amicale ...</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_122340.jpg" data-size="708x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_122340-thumbnail.jpg" alt="" width="708" height="943"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220518_084023.jpg" data-size="2965x3954"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220518_084023-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220518_084029.jpg" data-size="2990x2826"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220518_084029-thumbnail.jpg" alt="" width="720" height="681"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220518_085540.jpg" data-size="3866x2899"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220518_085540-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_181041.jpg" data-size="2912x3748"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_181041-thumbnail.jpg" alt="" width="720" height="927"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_181100.jpg" data-size="3902x2926"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_181100-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_181109.jpg" data-size="4000x3000"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220529_181109-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220702_073829.jpg" data-size="3064x3086"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220702_073829-thumbnail.jpg" alt="" width="720" height="725"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220813_184601_360.jpg" data-size="4015x3072"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20220813_184601_360-thumbnail.jpg" alt="" width="720" height="551"></a></figure>
-<figure class="gallery__item"><a href="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20230702_123953_871.jpg" data-size="1251x943"><img loading="lazy" src="https://atelierdemariebidouille.github.io/gh-pages/media/posts/2/gallery/IMG_20230702_123953_871-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_122340.jpg" data-size="708x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_122340-thumbnail.jpg" alt="" width="708" height="943"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220518_084023.jpg" data-size="2965x3954"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220518_084023-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220518_084029.jpg" data-size="2990x2826"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220518_084029-thumbnail.jpg" alt="" width="720" height="681"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220518_085540.jpg" data-size="3866x2899"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220518_085540-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_181041.jpg" data-size="2912x3748"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_181041-thumbnail.jpg" alt="" width="720" height="927"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_181100.jpg" data-size="3902x2926"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_181100-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_181109.jpg" data-size="4000x3000"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220529_181109-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220702_073829.jpg" data-size="3064x3086"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220702_073829-thumbnail.jpg" alt="" width="720" height="725"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220813_184601_360.jpg" data-size="4015x3072"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20220813_184601_360-thumbnail.jpg" alt="" width="720" height="551"></a></figure>
+<figure class="gallery__item"><a href="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20230702_123953_871.jpg" data-size="1251x943"><img loading="lazy" src="https://www.atelierdemariebidouille.com/media/posts/2/gallery/IMG_20230702_123953_871-thumbnail.jpg" alt="" width="720" height="543"></a></figure>
 </div></div>
 <p> </p>
 <p> </p>
