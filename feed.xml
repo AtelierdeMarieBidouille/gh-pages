@@ -3,7 +3,7 @@
     <title>L&#x27;atelier de Marie Bidouille</title>
     <link href="https://www.atelierdemariebidouille.com/feed.xml" rel="self" />
     <link href="https://www.atelierdemariebidouille.com" />
-    <updated>2024-09-22T20:23:33+02:00</updated>
+    <updated>2024-09-22T20:27:58+02:00</updated>
     <author>
         <name>Marie Bidouille</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://www.atelierdemariebidouille.com/les-prochains-ateliers/"/>
         <id>https://www.atelierdemariebidouille.com/les-prochains-ateliers/</id>
+        <media:content url="https://www.atelierdemariebidouille.com/media/posts/22/IMG_20231028_145428-2.jpg" medium="image" />
             <category term="Les prochains ateliers"/>
 
         <updated>2024-09-22T20:23:33+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.atelierdemariebidouille.com/media/posts/22/IMG_20231028_145428-2.jpg" alt="" />
                     - samedi 19 octobre - Strasbourg - Thème automne COMPLET - samedi 30 novembre - Urmatt - Thème Carte de Noël COMPLET -&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://www.atelierdemariebidouille.com/media/posts/22/IMG_20231028_145428.jpg" alt="" width="523" height="394" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.atelierdemariebidouille.com/media/posts/22/responsive/IMG_20231028_145428-xs.jpg 300w ,https://www.atelierdemariebidouille.com/media/posts/22/responsive/IMG_20231028_145428-sm.jpg 480w ,https://www.atelierdemariebidouille.com/media/posts/22/responsive/IMG_20231028_145428-md.jpg 768w ,https://www.atelierdemariebidouille.com/media/posts/22/responsive/IMG_20231028_145428-lg.jpg 1024w ,https://www.atelierdemariebidouille.com/media/posts/22/responsive/IMG_20231028_145428-xl.jpg 1360w ,https://www.atelierdemariebidouille.com/media/posts/22/responsive/IMG_20231028_145428-2xl.jpg 1600w"></figure>
+                    <p><img src="https://www.atelierdemariebidouille.com/media/posts/22/IMG_20231028_145428-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p> </p>
 <p>- <span style="text-decoration: line-through;">samedi 19 octobre - Strasbourg - Thème automne </span> COMPLET</p>
 <p>- <span style="text-decoration: line-through;">samedi 30 novembre - Urmatt - Thème Carte de Noël </span> COMPLET</p>
 <p>- samedi 2 février - Mutzig - Tea-time hivernal </p>
